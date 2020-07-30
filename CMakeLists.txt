@@ -172,3 +172,5 @@ if (YAML_CPP_CLANG_FORMAT_EXE)
     COMMENT "Running clang-format"
     VERBATIM)
 endif()
+
+add_subdirectory(examples)
