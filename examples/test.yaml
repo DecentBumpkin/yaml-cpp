@@ -1,26 +1,16 @@
-# --- 
-doe: "a deer, a female deer"
-ray: "a drop of golden sun"
-pi: 3.14159
-xmas: true
-french-hens: 3
-calling-birds: 
-  - good:
-    - a
-    - b
-    - c
-  - 
-    - [6,5,4,3,2]
-    - e
-  - louie: [111,2,3]
-  - fred: [1111,2,3]
-another:
-  [123,2,3,4,5]
-xmas-fifth-day: 
-  calling-birds: four
-  french-hens: 3
-  golden-rings: 5
-  partridges: 
-    count: 1
-    location: "a pear tree"
-  turtle-doves: two
+---
+- 
+    name: Martin D'vloper
+    job: Developer
+    skills:
+      - python
+      - perl
+      - pascal
+-  
+    name: Tabitha Bitumen
+    job: Developer
+    skills:
+      - lisp
+      - fortran
+      - erlang
+...
